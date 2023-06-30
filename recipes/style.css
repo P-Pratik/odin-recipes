@@ -23,18 +23,12 @@ p{
     margin: 10px 150px;
     text-align: justify;
 }
-h1{
+h1,h2{
     outline: 2px solid rgba(255, 192, 203, 0.304);
+    border-radius: 5px;
     background-color: rgba(219, 169, 169, 0.137);
     color:pink;
     margin: 10px 150px;
     text-align: center;
-}
-
-h2{
-    outline: 2px solid rgba(255, 192, 203, 0.304);
-    background-color: rgba(219, 169, 169, 0.137);
-    color: pink;
-    margin: 10px 150px;
-    text-align: center;
+    
 }
