@@ -1,0 +1,40 @@
+body{
+    color: aliceblue;
+    background-color: rgb(35, 37, 45);
+    font-size: 18px;
+}
+
+a{
+    color: lightpink;
+}
+
+img{
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+ul,ol{
+    margin: 10px 150px;
+}
+
+p{
+    margin: 10px 150px;
+    text-align: justify;
+}
+h1{
+    outline: 2px solid rgba(255, 192, 203, 0.304);
+    background-color: rgba(219, 169, 169, 0.137);
+    color:pink;
+    margin: 10px 150px;
+    text-align: center;
+}
+
+h2{
+    outline: 2px solid rgba(255, 192, 203, 0.304);
+    background-color: rgba(219, 169, 169, 0.137);
+    color: pink;
+    margin: 10px 150px;
+    text-align: center;
+}
